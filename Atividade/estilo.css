@@ -1,0 +1,22 @@
+ form{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 10px;
+    display: flexbox;}
+
+ h1{
+    text-align: center;}
+
+ button{
+    border-radius: 25px;
+    padding: 8px 20px;
+    background-color: aqua;
+    color: black;
+    bottom: none;
+    cursor: pointer;}
+    
+button:hover {
+    background-color: rgb(19, 122, 122)}
+    
